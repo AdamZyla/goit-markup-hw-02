@@ -1,3 +1,3 @@
-# goit-markup-hw-01
-Zadanie domowe
-https://github.com/AdamZyla/goit-markup-hw-01.git
+# goit-markup-hw-02
+Home work part#2
+https://github.com/AdamZyla/goit-markup-hw-02.git
