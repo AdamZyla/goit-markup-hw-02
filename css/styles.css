@@ -18,28 +18,22 @@ body {
 
     .header {
        color: #2E2F42;
-         font-size: 16px;
-     
+       font-size: 16px;
        line-height: 150%; /* 24px% */
        letter-spacing: 0.32px;
+       font-weight: 500;
     }
 
     .contact {
        text-decoration: none;
        color: #4D5AE5;
-       font-family: Raleway;       
-       font-size: 18px;
+       
+       font-size: 16px;
        line-height: 116.667%; /* 116.667% */
        letter-spacing: 0.54px;
        text-transform: uppercase;
+       font-weight: 500;
     }
 
 
-    color: var(--IRIS, #4D5AE5);
-       font-family: Raleway;
-       font-size: 18px;
-       font-style: normal;
-       font-weight: 800;
-       line-height: 116.667%; /* 116.667% */
-       letter-spacing: 0.54px;
-       text-transform: uppercase;
+    
