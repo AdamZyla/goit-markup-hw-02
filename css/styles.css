@@ -6,6 +6,7 @@ body {
        
 .logo {
    font-family: Raleway;
+   color: #2E2F42;
    font-size: 18px;
    font-style: normal;
    font-weight: 800;
@@ -14,9 +15,15 @@ body {
    text-transform: uppercase;
 }   
 
-.reference {
+.navigation-links {
+   color: #2E2F42;
    font-family: Roboto;
    font-size: 16px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 24px;
+   letter-spacing: 0.32px;
+   
 }
 
 .contakt {
@@ -27,6 +34,7 @@ body {
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #2E2F42;
+   text-decoration: none
 }
 
 .button-menu {
