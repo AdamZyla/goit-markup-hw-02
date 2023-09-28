@@ -43,6 +43,10 @@ body {
 .cursor {
 cursor: pointer;
 }
+.cursor:hover {
+   background-color: #ffffff;
+   color: #404BBF;
+}
 
 
 .iris {
