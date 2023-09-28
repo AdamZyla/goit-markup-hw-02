@@ -2,6 +2,9 @@ body {
        font-family: 'Roboto', sans-serif;
        
 }
+cursor {
+   cursor: pointer;
+}
 
     .button-properietes {
         
