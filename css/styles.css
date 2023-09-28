@@ -38,7 +38,8 @@ body {
 }
 
 .button-menu {
-
+background-color: #FFFFFF;
+color:#404BBF
 }
 .cursor {
 cursor: pointer;
@@ -47,7 +48,10 @@ cursor: pointer;
    background-color: #ffffff;
    color: #404BBF;
 }
-
+.cursor:focus {
+   background-color: #ffffff;
+   color: #404BBF;
+}
 
 .iris {
   color: #4D5AE5
