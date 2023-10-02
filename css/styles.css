@@ -38,7 +38,7 @@ body {
    text-decoration: none;
 }
 .logo-span-header {
-   font-family: Raleway;
+   font-family: Raleway, sans-serif;
    color: #2E2F42;
    font-size: 18px;
    font-style: normal;
@@ -92,7 +92,7 @@ cursor: pointer;
 }
 
 .logo-span-footer {
-   font-family: Raleway;
+   font-family: Raleway, sans-serif;
    color: #F4F4FD;
    font-size: 18px;
    font-style: normal;
@@ -102,7 +102,7 @@ cursor: pointer;
    text-transform: uppercase;
    }
 
-.footer {
+.footer-background {
    background-color: #2E2F42;
 }
 .footer-text {
