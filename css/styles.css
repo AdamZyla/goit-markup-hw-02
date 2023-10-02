@@ -4,7 +4,7 @@ body {
        background-color: #ffffff;
 }
        
-.header {
+.link {
    background-color: var(--white-color);
 }
 .logo {
@@ -31,7 +31,7 @@ body {
    text-decoration: none;
 }
 
-.header-navigation-links {
+.navigation-links {
    color: #2E2F42;
    font-family: Roboto;
    font-size: 16px;
@@ -61,12 +61,10 @@ color: var(--iris-color);
 cursor: pointer;
 }
 .cursor:hover {
-   background-color: #ffffff;
    color: #404BBF;
 }
 .cursor:focus {
-   background-color: #ffffff;
-   color: #404BBF;
+     color: #404BBF;
 }
 
 :root {
