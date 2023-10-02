@@ -75,14 +75,26 @@ body {
 background-color: var(--white-color);
 color: var(--iris-color);
 }
+
+.button-text {
+font-family: Roboto, sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #4d5ae5;
+background-color: #F4F4FD;
+}
 .cursor {
 cursor: pointer;
 }
-.cursor:hover {
-   color: #404BBF;
+.button-text:hover {
+   color: #FFFFFF,;
+   background-color: #404BBF,
 }
-.cursor:focus {
-     color: #404BBF;
+.button-text:focus {
+     color: #FFFFFF;
+     background-color: #404BBF;
 }
 
 
