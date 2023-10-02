@@ -3,6 +3,21 @@ body {
        color: #434455;
        background-color: #ffffff;
 }
+
+:root {
+   --iris-color: #4D5AE5;  
+   --ocean-color: #404BBF;
+   --navy-blue-color: #2E2F42;   
+   --green-color: #31D0AA;
+   --slate-color: #434455;
+   --light-slate-color: #8E8F99;
+   --cornflower-color: #E7E9FC;
+   --cloud-color: #F4F4FD;
+   --navy-blue-modal-color: #2E2F42;
+   --grey-color: #2E2F42;
+   --white-color: #ffffff;
+   --dairy-color: #fcfcfc;
+   }
        
 .main-navigation {
    background-color: var(--white-color);
@@ -70,20 +85,7 @@ cursor: pointer;
      color: #404BBF;
 }
 
-:root {
---iris-color: #4D5AE5;  
---ocean-color: #404BBF;
---navy-blue-color: #2E2F42;   
---green-color: #31D0AA;
---slate-color: #434455;
---light-slate-color: #8E8F99;
---cornflower-color: #E7E9FC;
---cloud-color: #F4F4FD;
---navy-blue-modal-color: #2E2F42;
---grey-color: #2E2F42;
---white-color: #ffffff;
---dairy-color: #fcfcfc;
-}
+
 
 .list {
    list-style: none;
