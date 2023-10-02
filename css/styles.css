@@ -4,6 +4,9 @@ body {
        background-color: #ffffff;
 }
        
+.header {
+   background-color: var(--white-color);
+}
 .logo {
    font-family: Raleway;
    color: #4d5ae5;
@@ -94,7 +97,7 @@ cursor: pointer;
    letter-spacing: 0.03em;
    text-transform: uppercase;
    }
-   
+
 .footer {
    background-color: #2E2F42;
 }
