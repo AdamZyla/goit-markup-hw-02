@@ -4,21 +4,24 @@ body {
        background-color: #ffffff;
 }
        
-.link {
+.main-navigation {
    background-color: var(--white-color);
 }
+
 .logo {
-   font-family: Raleway;
-   color: #4d5ae5;
-   font-size: 18px;
-   font-style: normal;
+   font-family: Raleway, sans-serif;
    font-weight: 800;
+   font-size: 18px;
    line-height: 1.17;
    letter-spacing: 0.03em;
-   text-transform: uppercase;
-   text-decoration: none;
+   text-transform: uppercase;          
+   color: #4d5ae5;
+   font-style: normal;
 }   
 
+.link {
+   text-decoration: none;
+}
 .logo-span-header {
    font-family: Raleway;
    color: #2E2F42;
@@ -31,7 +34,7 @@ body {
    text-decoration: none;
 }
 
-.navigation-links {
+.main-navigation-links {
    color: #2E2F42;
    font-family: Roboto;
    font-size: 16px;
