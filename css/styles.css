@@ -85,13 +85,16 @@ letter-spacing: 0.04em;
 color: #4d5ae5;
 background-color: #F4F4FD;
 }
+
 .cursor {
 cursor: pointer;
 }
+
 .button-text:hover {
-   color: #FFFFFF,;
-   background-color: #404BBF,
+   color: #FFFFFF;
+   background-color: #404BBF;
 }
+
 .button-text:focus {
      color: #FFFFFF;
      background-color: #404BBF;
