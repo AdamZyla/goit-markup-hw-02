@@ -53,8 +53,8 @@ body {
 }
 
 .button-menu {
-background-color: #FFFFFF;
-color:#404BBF
+background-color: var(--white-color);
+color: var(--iris-color);
 }
 .cursor {
 cursor: pointer;
