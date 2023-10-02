@@ -65,50 +65,18 @@ cursor: pointer;
    color: #404BBF;
 }
 
-.iris {
-  color: #4D5AE5
-}
+:root {
 
-.ocean {
-   color: #4D5AE5;
-}
-
-.navy-blue {
-   color: #2E2F42;
-}
-
-.green {
-   color: #31D0AA;
-}
-
-.slate {
-   color: #434455
-}
-
-.light-slate {
-   color: #8E8F99
-}
-
-.cornflower {
-   color: #E7E9FC
-}
-
-.cloud {
-   color: #F4F4FD
-}
-
-.navy-blue-modal {
-   color: #2E2F42
-}
-
-.grey {
-   color: #2E2F42
-}
-
-.white { 
-   color: #ffffff
-}
-
-.dairy {
-   color: #fcfcfc
+--iris-color: #4D5AE5;  
+--ocean-color: #404BBF;
+--navy-blue-color: #2E2F42;   
+--green-color: #31D0AA;
+--slate-color: #434455;
+--light-slate-color: #8E8F99;
+--cornflower-color: #E7E9FC;
+--cloud-color: #F4F4FD;
+--navy-blue-modal-color: #2E2F42;
+--grey-color: #2E2F42;
+--white-color: #ffffff;
+--dairy-color: #fcfcfc;
 }
