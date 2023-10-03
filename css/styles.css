@@ -60,6 +60,14 @@ body {
    
 }
 
+.main-navigation-links:hover {
+   color: #404bbf;
+}
+
+.main-navigation-links:focus {
+   color: #404bbf;
+}
+
 .contact {
    font-family: Roboto;
    font-size: 16px;
