@@ -162,6 +162,9 @@ color: var(--navy-blue-color);
    font-weight: 700;
    line-height: 40px;
    letter-spacing: 0.72px;
+   line-height: 1.11;
+   text-align: center
+   text-transform: capitalize;
 }
 
 .section-four-header {
@@ -172,6 +175,7 @@ color: var(--navy-blue-color);
    font-weight: 700;
    line-height: 40px; 
    letter-spacing: 0.72px;
+   line-height: 1.11;
 }
 
 .section-four-text {
@@ -213,3 +217,4 @@ line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
 color: #434455;
 }
+
