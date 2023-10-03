@@ -156,7 +156,7 @@ color: var(--navy-blue-color);
    color: var(--slate-color)
 }
 
-.section-3-test {
+.section-3-header {
    color: var(--NAVY-BLUE, #2E2F42);
    text-align: center;
    font-family: Roboto;
@@ -165,4 +165,35 @@ color: var(--navy-blue-color);
    font-weight: 700;
    line-height: 40px;
    letter-spacing: 0.72px;
+}
+
+.section-4-header {
+   color: var(--NAVY-BLUE, #2E2F42);
+   text-align: center;
+     font-family: Roboto;
+   font-size: 36px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: 40px; 
+   letter-spacing: 0.72px;
+}
+
+.section-4-text {
+color: var(--NAVY-BLUE, #2E2F42);
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.4px;
+}
+
+.secction-4-positions {
+color: var(--SLATE, #434455);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+letter-spacing: 0.32px;
 }
