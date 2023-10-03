@@ -163,7 +163,7 @@ color: var(--navy-blue-color);
    line-height: 40px;
    letter-spacing: 0.72px;
    line-height: 1.11;
-   text-align: center
+   text-align: center;
    text-transform: capitalize;
 }
 
@@ -176,6 +176,8 @@ color: var(--navy-blue-color);
    line-height: 40px; 
    letter-spacing: 0.72px;
    line-height: 1.11;
+   text-align: center;
+   text-transform: capitalize;
 }
 
 .section-four-text {
@@ -218,3 +220,10 @@ letter-spacing: 0.32px;
 color: #434455;
 }
 
+.section-four-bg {
+   background-color: #F4F4FD;
+}
+
+.section-four-text-bg {
+   background-color: #FFFFFF;
+}
