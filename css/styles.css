@@ -37,6 +37,19 @@ body {
 .link {
    text-decoration: none;
 }
+
+.link-contact {
+color: #434455;
+}
+
+.link-contact:hover {
+   color: #404bbf;
+}
+
+.link-contact:focus {
+   color: #404bbf;
+}
+
 .logo-span-header {
    font-family: Raleway, sans-serif;
    color: #2E2F42;
