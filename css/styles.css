@@ -105,9 +105,11 @@ color: #434455;
 
 .button-menu:hover {
    color: #FFFFFF;
+   background-color: #404BBF;
 }
 .button-menu:focus {
    color: #FFFFFF;
+   background-color: #404BBF;
 }
 
 
