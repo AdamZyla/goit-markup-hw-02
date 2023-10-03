@@ -158,7 +158,6 @@ color: var(--navy-blue-color);
 
 .section-3-header {
    color: var(--NAVY-BLUE, #2E2F42);
-   text-align: center;
    font-family: Roboto;
    font-size: 36px;
    font-style: normal;
@@ -169,8 +168,7 @@ color: var(--navy-blue-color);
 
 .section-4-header {
    color: var(--NAVY-BLUE, #2E2F42);
-   text-align: center;
-     font-family: Roboto;
+   font-family: Roboto;
    font-size: 36px;
    font-style: normal;
    font-weight: 700;
