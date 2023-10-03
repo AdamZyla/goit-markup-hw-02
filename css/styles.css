@@ -103,6 +103,14 @@ color: #434455;
 
 }
 
+.button-menu:hover {
+   color: #FFFFFF,;
+}
+.button-menu:focus {
+   color: #FFFFFF,;
+}
+
+
 .button-text {
 font-family: Roboto, sans-serif;
 font-weight: 500;
