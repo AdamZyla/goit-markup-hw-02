@@ -103,8 +103,8 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color: #4d5ae5;
-background-color: #F4F4FD;
+color: #ffffff;
+background-color: #4d5ae5;
 }
 
 .cursor {
@@ -112,12 +112,10 @@ cursor: pointer;
 }
 
 .button-text:hover {
-   color: #FFFFFF;
    background-color: #404BBF;
 }
 
 .button-text:focus {
-     color: #FFFFFF;
      background-color: #404BBF;
 }
 
@@ -145,13 +143,17 @@ cursor: pointer;
    letter-spacing: 0.02em;
 }
 
+.hero {
+background-color: #2E2F42;
+}
+
 .section-one {
 font-family: Roboto;
 font-size: 56px;
 font-style: normal;
 font-weight: 700;
-line-height: 60px;
-letter-spacing: 1.12px;
+line-height: 1.07;
+letter-spacing: 0.02em;
 text-align: center;
 color: var(--white-color);
 background-color: #2E2F42;
