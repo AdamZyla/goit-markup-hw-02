@@ -124,7 +124,7 @@ cursor: pointer;
    color: #F4F4FD;
 }
 
-.section-1 {
+.section-one {
 font-family: Roboto;
 font-size: 56px;
 font-style: normal;
@@ -136,7 +136,7 @@ color: var(--white-color);
 background-color: #2E2F42;
 }
 
-.section-2 {
+.section-two {
 font-family: Roboto;
 font-size: 20px;
 font-style: normal;
@@ -146,7 +146,7 @@ letter-spacing: 0.4px;
 color: var(--navy-blue-color);
 }
 
-.section-2-text {
+.section-two-text {
    font-family: Roboto;
    font-size: 16px;
    font-style: normal;
@@ -156,7 +156,7 @@ color: var(--navy-blue-color);
    color: var(--slate-color)
 }
 
-.section-3-header {
+.section-three-header {
    color: var(--NAVY-BLUE, #2E2F42);
    font-family: Roboto;
    font-size: 36px;
@@ -166,7 +166,7 @@ color: var(--navy-blue-color);
    letter-spacing: 0.72px;
 }
 
-.section-4-header {
+.section-four-header {
    color: var(--NAVY-BLUE, #2E2F42);
    font-family: Roboto;
    font-size: 36px;
@@ -176,7 +176,7 @@ color: var(--navy-blue-color);
    letter-spacing: 0.72px;
 }
 
-.section-4-text {
+.section-four-text {
 color: var(--NAVY-BLUE, #2E2F42);
 font-family: Roboto;
 font-size: 20px;
@@ -186,7 +186,7 @@ line-height: 24px;
 letter-spacing: 0.4px;
 }
 
-.secction-4-positions {
+.secction-four-positions {
 color: var(--SLATE, #434455);
 font-family: Roboto;
 font-size: 16px;
