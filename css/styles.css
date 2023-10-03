@@ -128,6 +128,8 @@ cursor: pointer;
 }
 .footer-text {
    color: #F4F4FD;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
 }
 
 .section-one {
