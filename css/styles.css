@@ -123,3 +123,15 @@ cursor: pointer;
 .footer-text {
    color: #F4F4FD;
 }
+
+.section-1 {
+font-family: Roboto;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 1.12px;
+text-align: center;
+color: var(--white-color);
+background-color: #2E2F42;
+}
